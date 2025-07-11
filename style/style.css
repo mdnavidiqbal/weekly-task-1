@@ -55,3 +55,6 @@ nav ul li {
     border: none;
     font-weight: bold;
 }
+.btn-1:hover {
+    background-color: red;
+}
