@@ -43,3 +43,15 @@ nav ul li {
     font-weight: bold;
     font-size: 65;
 }
+/* button-style */
+.btn-1 {
+    color: white;
+    background-color: blue;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 36px;
+    padding-right: 36px;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+}
