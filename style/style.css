@@ -219,7 +219,6 @@ nav ul li {
 
 .sc-fr {
     padding-top: 20px;
-    /* padding-right: 89px; */
 }
 
 .sc-fr input[type="text"],
@@ -240,4 +239,34 @@ input::placeholder,
 textarea {
     color: #757575;
     padding-left: 20px;
+}
+/* footer style */
+.footer-section {
+    width: 1400px;
+    height: 350px;
+    margin: 0 auto;
+    padding-top: 30px;
+    background-color: #f7e4e4d3;
+    text-align: center;
+}
+
+.footer-container ul {
+    list-style: none;
+    justify-content: center;
+    /* align-items: center; */
+    display: flex;
+    gap: 40px;
+}
+
+.footer-container li a {
+    text-decoration: none;
+}
+
+li a {
+    color: #757575;
+}
+
+.footer-heading {
+    font-weight: bold;
+    font-size: 100px;
 }
